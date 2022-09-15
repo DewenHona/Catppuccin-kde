@@ -131,8 +131,8 @@ ForegroundPositive=179,225,163
 ForegroundVisited=198,160,246
 
 [General]
-ColorScheme=CatppuccinLatte
-Name=CatppuccinFrappe
+ColorScheme=CatppuccinFrappe
+Name=Catppuccin Frappe
 accentActiveTitlebar=false
 shadeSortColumn=true
 
