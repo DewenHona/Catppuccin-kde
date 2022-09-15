@@ -32,10 +32,10 @@ What you should see:
  
 
   
- Notes:
-1. To get a material-like look, install [lightly application style](https://> github.com/Luwx/Lightly) and select it from System Settings > Appearance > Application Style > Lightly. 
-
-2. If you do not like the new icon for the application launcher set by the lightly plasma theme, simply delete `~/.local/share/plasma/desktoptheme/lightly-plasma-git/icons`.
+> Notes:
+> 1. To get a material-like look, install [lightly application style](https://github.com/Luwx/Lightly) and select it from System Settings > Appearance > > Application Style > Lightly.
+> 
+> 2. If you do not like the new icon for the application launcher set by the lightly plasma theme, simply delete `~/.local/share/plasma/desktoptheme> > /lightly-plasma-git/icons`.
 
 Todo: Add to KDE store.
 
